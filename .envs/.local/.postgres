@@ -1,0 +1,6 @@
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=authors-live
+POSTGRES_USER=redihoxha
+POSTGRES_PASSWORD=Pass123456
+DATABASE_URL=postgres://redihoxha:Pass123456@postgres:5432/authors-live
